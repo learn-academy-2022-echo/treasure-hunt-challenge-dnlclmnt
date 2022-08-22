@@ -1,0 +1,19 @@
+.boardgame {
+    display: flex;
+    width: 620px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.square {
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    font-size: 11rem;
+    text-align: center;
+}
